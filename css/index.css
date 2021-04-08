@@ -62,6 +62,7 @@ input{
     padding:0px;
     display:inline-block;
     background-color: lightgray;
+    border-radius: 2px;
    }
 select{
     font-size: 15px;
